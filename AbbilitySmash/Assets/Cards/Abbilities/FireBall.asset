@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab87a0b17f28faa4b8ce7d2faaebffed, type: 3}
+  m_Name: FireBall
+  m_EditorClassIdentifier: 
+  cardName: FireBall
+  cardType: 0
+  cardPhaseNormal: 0
+  cardPhaseSpecial: 1
+  soulSprite: {fileID: 21300000, guid: 6638c4aa4c05b854f8c186a2bf33ee0b, type: 3}
+  soulSpritePassive: {fileID: 21300000, guid: 718d7180ab0cc0647a5af09e9c58bda8, type: 3}
+  cardBackSprite: {fileID: 21300000, guid: 540d2753a97a3ef4ca7766a0a6c2a1ee, type: 3}
+  passiveBackSprite: {fileID: 21300000, guid: 952b436d0437a564b9b0f17b950927ca, type: 3}
